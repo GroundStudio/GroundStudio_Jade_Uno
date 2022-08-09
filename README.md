@@ -1,5 +1,6 @@
 GroundStudio Jade Uno
 ====================================
+[![img1320](https://user-images.githubusercontent.com/77836107/183624938-da41e981-3c5b-42c8-91bb-80f9491767a0.png)](https://ardushop.ro/ro/home/1728-placa-de-dezvoltare-jade-uno.html)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/1728-placa-de-dezvoltare-jade-uno.html)
 
