@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Development board based on ATmega328P and HT42B534-2 for USB comunication.
+ATMEGA328P based development board, 32kBytes of In-System Self-Programmable Flash program memory,  1kBytes EEPROM, 2kBytes Internal SRAM, 6 PWM Channels, 20 Digital Pins including 4 channel 10 bit ADC Pins and HT42B534-2 for USB comunication.
 
 Contents
 -------------------
